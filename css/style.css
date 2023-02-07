@@ -13,27 +13,27 @@ body, html {
   background-size: cover;
 }
 
-/* First image (Logo. Full height) */
+/* First image */
 .bgimg-1 {
-  background-image: url('../img/time.jpg');
+  background-image: url('/time.jpg');
   min-height: 500px;
 }
 
 /* Second image (Portfolio) */
 .bgimg-2 {
-  background-image: url("../img/speech.gif");
+  background-image: url('/speech.gif');
   min-height: 500px;
 }
 
 /* Third image (Contact) */
 .bgimg-3 {
-  background-image: url("../img/dog.gif");
+  background-image: url('/dog.gif');
   min-height: 500px;
 }
 
 /* Fourth image (Contact) */
 .bgimg-4 {
-    background-image: url("../img/letter.jpg");
+    background-image: url('/letter.jpg');
     min-height: 500px;
   }
 
